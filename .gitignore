@@ -6,3 +6,9 @@ checkpoints/
 *.bin
 *.pth
 
+# Python virtual environment
+.venv/
+
+# Generated and test images
+App_demo/j.jpg
+test_interior.png
